@@ -15,15 +15,6 @@ public class Student {
     private int id;
     private int age;
     private String email;
-    private String college;
-
-    public String getCollege() {
-        return college;
-    }
-
-    public void setCollege(String college) {
-        this.college = college;
-    }
 
     public String getEmail() {
         return email;
