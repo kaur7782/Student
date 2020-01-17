@@ -15,15 +15,6 @@ public class Student {
     private int id;
     private int age;
     private String email;
-    private String program;
-
-    public String getProgram() {
-        return program;
-    }
-
-    public void setProgram(String program) {
-        this.program = program;
-    }
 
     public String getEmail() {
         return email;
