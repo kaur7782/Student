@@ -18,7 +18,15 @@ public class Student {
     private int age;
     private String email;
     private String college;
+    private String status;
 
+    public String getStatus() {
+        return status;
+    }
+
+    public void setStatus(String status) {
+        this.status = status;
+    }
     public String getCollege() {
         return college;
     }
