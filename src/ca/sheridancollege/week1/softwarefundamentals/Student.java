@@ -9,7 +9,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 /**
  *
  * @author sidhu376
- Date: 24th Jan, 2020
+
  */
 public class Student {
     
